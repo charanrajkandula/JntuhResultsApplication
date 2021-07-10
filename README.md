@@ -1,11 +1,15 @@
 ![gplay](https://user-images.githubusercontent.com/83225523/125150000-1628a200-e15a-11eb-8500-2a8b7c38fd35.png)
+
+## JNTUH Mobile App Available in Play Store
+
+
 # Jntuh Results Mobile Application
-JNTUH Mobile App Available in Play Store
+
 
 Click here to Download Now - https://play.google.com/store/apps/details?id=com.achievers.jntuhresults
 
 
-JNTUH Mobile App UI:
+# JNTUH Mobile App UI:
 
 
 ![Screen0](https://play-lh.googleusercontent.com/lZJ7NtgJl9b6tLHUMbpLGeIf6WStUrZRHcXKV5lXc_M_k0yqOCLDnFDAuulA1rh6MMM=w720-h310-rw)
